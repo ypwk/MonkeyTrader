@@ -1,0 +1,20 @@
+{
+  "itemid": "minecraft:wooden_shovel",
+  "displayname": "§fWooden Shovel",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fWooden Shovel\"},ExtraAttributes:{originTag:\"CRAFTING_GRID_SHIFT\",id:\"WOOD_SPADE\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Damage: §c+15",
+    "",
+    "§f§lCOMMON SHOVEL"
+  ],
+  "internalname": "WOOD_SPADE",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "2.1.0-REL",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Wooden_Shovel",
+    "https://wiki.hypixel.net/Wooden_Shovel"
+  ]
+}

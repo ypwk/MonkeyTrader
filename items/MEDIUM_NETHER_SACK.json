@@ -1,0 +1,52 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Medium Nether Sack",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"56ea9d9e-3be2-3970-aa79-3fb0ef6e1515\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwNjQ3NTk3OCwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMDMyYjY3ODkyOGI5ZDYwZWM4MWU0YzBiMDgwOWQyYzlkMDhhM2Q1YzBjMTlkZmJiYTRmNDczOTIwNzNiMDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Item pickups go directly into\",1:\"§7your sacks.\",2:\"\",3:\"§7§7Items: §aBezos§7, §aBlaze\",4:\"§aAshes§7, §aBlaze Rod§7, §aBurning\",5:\"§aEye§7, §aCompact Ooze§7,\",6:\"§7§aCorrupted Fragment§7, §aDigested\",7:\"§aMushrooms§7, §aGazing Pearl§7,\",8:\"§7§aGhast Tear§7, §aGlowstone\",9:\"§aDust§7, §aHallowed Skull§7, §aKada\",10:\"§aLead§7, §aLeather Cloth§7,\",11:\"§7§aLumino Fiber§7, §aMagma Chunk§7,\",12:\"§7§aMagma Cream§7, §aMagmag§7,\",13:\"§7§aMutated Blaze Ashes§7,\",14:\"§7§aMycelium§7, §aNether Quartz§7,\",15:\"§7§aNether Wart§7, §aNetherrack§7,\",16:\"§7§aRed Sand§7, §aSpectre Dust§7,\",17:\"§7§aSpell Powder§7, §aSulphur§7,\",18:\"§7§aTentacle Meat§7, §aWither Soul\",19:\"\",20:\"§7Capacity: §e2,240 per item\",21:\"§8Sacks sum their capacity.\",22:\"\",23:\"§9§lRARE\"],Name:\"§9Medium Nether Sack\"},ExtraAttributes:{id:\"MEDIUM_NETHER_SACK\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Item pickups go directly into",
+    "§7your sacks.",
+    "",
+    "§7§7Items: §aBezos§7, §aBlaze",
+    "§aAshes§7, §aBlaze Rod§7, §aBurning",
+    "§aEye§7, §aCompact Ooze§7,",
+    "§7§aCorrupted Fragment§7, §aDigested",
+    "§aMushrooms§7, §aGazing Pearl§7,",
+    "§7§aGhast Tear§7, §aGlowstone",
+    "§aDust§7, §aHallowed Skull§7, §aKada",
+    "§aLead§7, §aLeather Cloth§7,",
+    "§7§aLumino Fiber§7, §aMagma Chunk§7,",
+    "§7§aMagma Cream§7, §aMagmag§7,",
+    "§7§aMutated Blaze Ashes§7,",
+    "§7§aMycelium§7, §aNether Quartz§7,",
+    "§7§aNether Wart§7, §aNetherrack§7,",
+    "§7§aRed Sand§7, §aSpectre Dust§7,",
+    "§7§aSpell Powder§7, §aSulphur§7,",
+    "§7§aTentacle Meat§7, §aWither Soul",
+    "",
+    "§7Capacity: §e2,240 per item",
+    "§8Sacks sum their capacity.",
+    "",
+    "§9§lRARE"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_SULPHUR:16",
+    "A2": "KADA_LEAD:40",
+    "A3": "ENCHANTED_SULPHUR:16",
+    "B1": "KADA_LEAD:40",
+    "B2": "SMALL_NETHER_SACK:1",
+    "B3": "KADA_LEAD:40",
+    "C1": "ENCHANTED_SULPHUR:16",
+    "C2": "KADA_LEAD:40",
+    "C3": "ENCHANTED_SULPHUR:16"
+  },
+  "internalname": "MEDIUM_NETHER_SACK",
+  "crafttext": "Requires: Sulphur V",
+  "clickcommand": "viewrecipe",
+  "modver": "2.1.0-REL",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Nether_Sack",
+    "https://wiki.hypixel.net/Medium_Nether_Sack"
+  ]
+}

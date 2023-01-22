@@ -1,0 +1,25 @@
+{
+  "itemid": "minecraft:fish",
+  "displayname": "§f§f§cRock the Fish",
+  "nbttag": "{ench:[],overrideMeta:1b,HideFlags:254,display:{Lore:[0:\"§c§lSPECIAL\"],Name:\"§f§f§cRock the Fish\"},ExtraAttributes:{id:\"ROCK_THE_FISH\"},AttributeModifiers:[]}",
+  "damage": 0,
+  "lore": [
+    "§c§lSPECIAL"
+  ],
+  "internalname": "ROCK_THE_FISH",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "2.1.0-REL",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Rock_the_Fish",
+    "https://wiki.hypixel.net/Rock_The_Fish"
+  ],
+  "recipes": [
+    {
+    "type": "trade",
+    "cost": "ENCHANTED_EMERALD:6",
+    "result": "ROCK_THE_FISH"
+    }
+  ]
+}
